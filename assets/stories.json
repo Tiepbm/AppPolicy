@@ -1,0 +1,208 @@
+[
+  {
+    "name": "Mục Thần Ký",
+    "code": "muc-than-ky",
+    "category": "huyen-huyen",
+    "author": "Trạch Trư",
+    "total": 1868,
+    "like": 2109,
+    "view":9338721
+  },
+  {
+    "name": "Cửu Tinh Bá Thể Quyết",
+    "code": "cuu-tinh-ba-the-quyet",
+    "category": "huyen-huyen",
+    "author": "Bình Phàm Ma Thuật Sư",
+    "total": 5321,
+    "like": 100109,
+    "view":8338721
+  },
+  {
+    "name": "Đại Chúa Tể",
+    "code": "dai-chua-te",
+    "category": "huyen-huyen",
+    "author": "Thiên Tàm Thổ Đậu",
+    "total": 1566,
+    "like": 50109,
+    "view":249000
+  }, {
+    "name": "Nguyên Tôn",
+    "code": "nguyen-ton-1",
+    "category": "huyen-huyen",
+    "author": "Thiên Tàm Thổ Đậu",
+    "total": 1503,
+    "like": 7109,
+    "view":1900000
+  },
+  {
+    "name": "Vô Thượng Thần Đế",
+    "code": "than-de-vo-thuong",
+    "category": "huyen-huyen",
+    "author": "Oa Ngưu Cuồng Bôn",
+    "total": 5807,
+    "like": 4079,
+    "view":17023370
+  },
+  {
+    "name": "Vạn Cổ Thần Đế",
+    "code": "van-co-than-de",
+    "category": "huyen-huyen",
+    "author": "Phi Thiên Ngư",
+    "total": 3903,
+    "like": 9587,
+    "view":28345000
+  },
+  {
+    "name": "Đế Bá",
+    "code": "de-ba",
+    "category": "huyen-huyen",
+    "author": "Yếm Bút Tiêu Sinh",
+    "total":4040,
+    "like": 598,
+    "view": 9007846
+  },
+  {
+    "name": "Hoàng Tộc Đại Chu",
+    "code": "hoang-toc-dai-chu",
+    "category": "huyen-huyen",
+    "author": "Hoàng Phủ Kỳ",
+    "total":954,
+    "like": 1122,
+    "view": 2961217
+  },
+  {
+    "name": "Lâm Uyên Hành",
+    "code": "lam-uyen-hanh",
+    "category": "huyen-huyen",
+    "author": "Trạch Trư",
+    "total":926,
+    "like": 471,
+    "view":2040969
+  },
+  {
+    "name": "Luân Hồi Nhạc Viên",
+    "code": "luan-hoi-nhac-vien",
+    "category": "huyen-huyen",
+    "author": "Na Nhất Chích Văn Tử",
+    "total": 3547,
+    "like": 408,
+    "view":1285997
+  },
+  {
+    "name": "Nhất Niệm Vĩnh Hằng",
+    "code": "nhat-niem-vinh-hang",
+    "category": "huyen-huyen",
+    "author": "Nhĩ Căn",
+    "total":1318,
+    "like": 935,
+    "view":1534999
+  },
+  {
+    "name": "Quỷ Bí Chi Chủ",
+    "code": "quy-bi-chi-chu",
+    "category": "huyen-huyen",
+    "author": "Ái Tiềm Thủy",
+    "total": 1451,
+    "like": 1526,
+    "view":6995656
+  },
+  {
+    "name": "Siêu Thần Sủng Thú Điếm",
+    "code": "sieu-than-sung-thu-diem",
+    "category": "huyen-huyen",
+    "author": "Cổ Hi",
+    "total":845,
+    "like": 422,
+    "view":2062039
+  },
+  {
+    "name": "Tam Thốn Nhân Gian",
+    "code": "tam-thon-nhan-gian",
+    "category": "tien-hiep",
+    "author": "Nhĩ căn",
+    "total":1298,
+    "like": 502,
+    "view":3145768
+  },
+  {
+    "name": "Thái Ất",
+    "code": "thai-at",
+    "category": "tien-hiep",
+    "author": "Vụ Ngoại Giang Sơn",
+    "total": 1043,
+    "like": 388,
+    "view": 14442143
+  },
+  {
+    "name": "Thần Tú Chi Chủ",
+    "code": "than-tu-chi-chu",
+    "category": "huyen-huyen",
+    "author": "Vụ Ngoại Giang Sơn",
+    "total": 1043,
+    "like": 388,
+    "view": 14442143
+  },
+  {
+    "name": "Thanh Liên Chi Đỉnh",
+    "code": "thanh-lien-chi-dinh",
+    "category": "tien-hiepThanh Liên Chi Đỉnh",
+    "author": "Tiêu Thập Nhất Mạc",
+    "total":1616,
+    "like": 345,
+    "view": 12345223
+  },
+  {
+    "name": "Toàn Chức Pháp Sư",
+    "code": "toan-chuc-phap-su",
+    "category": "huyen-huyen",
+    "author": "Loạn",
+    "total": 3132,
+    "like": 1042,
+    "view": 4209685
+  },
+  {
+    "name": "Tu Chân Liêu Thiên Quần",
+    "code": "tu-chan-lieu-thien-quan",
+    "category": "do-thi",
+    "author": "Thánh Kỵ Sĩ",
+    "total":3172,
+    "like": 1229,
+    "view": 3928765
+  },
+  {
+    "name": "Vạn Cổ Tối Cường Tông",
+    "code": "van-co-manh-nhat-tong",
+    "category": "huyen-huyen",
+    "author": "Giang Hồ Tái Kiến",
+    "total": 2007,
+    "like": 989,
+    "view": 4532987
+  },
+  {
+    "name": "Vạn Đạo Kiếm Tôn",
+    "code": "van-dao-kiem-ton",
+    "category": "huyen-huyen",
+    "author": "Đả Tử Đô Yếu Tiễn",
+    "total": 5317,
+    "like": 622,
+    "view": 2889345
+  },
+  {
+    "name": "Vĩnh Hằng Thánh Vương",
+    "code": "vinh-hang-thanh-vuong",
+    "category": "tien-hiep",
+    "author": "Tuyết Mãn Cung Đao",
+    "total": 2908,
+    "like": 272,
+    "view": 1567894
+  },
+  {
+    "name": "Vũ Luyện Điên Phong",
+    "code": "vu-luyen-dien-phong",
+    "category": "huyen-huyen",
+    "author": "Mạc Mặc",
+    "total":5754,
+    "like": 470,
+    "view": 12983424
+  }
+]
